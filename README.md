@@ -73,7 +73,7 @@ Think about writing an important email. You choose your words carefully, finish 
 
 CASSO Skills applies that separation deliberately. We give agents distinct responsibilities for doing the work, reviewing it for completeness and auditing it for correctness. Each role has a clear purpose and a checklist. Asking an agent to "do the work and check it" becomes a structured process in which the checks are assignments of their own.
 
-Before spending time checking whether the work is right, we first check that all the required work is there. Think of a student handing in a test. Before grading it, the teacher scans it to make sure every question has been answered, every section is complete, and the student has shown their working where required. If something was accidentally skipped, the teacher can hand it back. Grading the answers comes next.
+Before spending time checking whether the work is right, we first check that all the required work is there. Think of a student handing in a test. Before grading it, the teacher scans it to make sure every question has been answered, every section is complete, and the student has shown their work where required. If something was accidentally skipped, the teacher can hand it back. Grading the answers comes next.
 
 The completeness review serves the same purpose. Using the review rubric, the reviewer checks that the agent addressed every part of the assignment, produced the required outputs and included the requested evidence. If the assignment asks for three things and only two were delivered, the work goes back with clear instructions about what is missing.
 
